@@ -1,0 +1,19 @@
+{
+  "name": "beatles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.0",
+    "digitalsignals": "^1.0.0",
+    "fft": "^0.2.1",
+    "fft-windowing": "^0.1.4",
+    "numeric": "^1.2.6",
+    "pcm": "^1.0.3"
+  }
+}
